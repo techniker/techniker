@@ -18,8 +18,7 @@
 
 Pinned projects:
 
-- **MQTTBusyPy** — MQTT Busylight Controller (Kuando HID  
-- integration).  
+- **MQTTBusyPy** — MQTT Busylight Controller (Kuando)
 - **Garmin_GMR18_tools** — Tools for communicating with Garmin GMR18 radar.  
 - **flightaware_feeder_json_tools** — Parsing & processing FlightAware feeder’s JSON data.  
 - **Controllino-EBMPapst-EC-Controller** — EC fan controller using Controllino.  
