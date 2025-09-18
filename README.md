@@ -1,16 +1,16 @@
 # Hi there 👋, I’m Bjørn (techniker)
 
-Working from home • Electronics, Software & Networks • Aviator • Sailing • CCC • Former Pianist (for fun)
+ Engineering • Electronics, Software & Networks • Aviator • Sailing • CCC • Pianist
 
 ---
 
 ## 🔧 About Me
 
-- I build hardware/software/network solutions; I’m happiest when code talks to electronics.  
+- I build hardware/software/network solutions; I’m happiest when code brings electronics to life.  
 - Based in Berlin, working at **Frachtwerk GmbH**.  
-- Passionate about embedded systems, IoT, python & C/C++, and open-source.  
-- I like to dive into radar systems, aviation tools, fan / controller design, etc.  
-- When not coding, you’ll likely find me sailing, flying, or tinkering with musical gear.
+- Passionate about embedded systems, rail technology, IoT, python & C/C++, and open-source.  
+- I like to dive into radar systems, aviation, electronics and hardware design, etc.  
+- When not coding, you’ll likely find me sailing, flying, or tinkering.
 
 ---
 
@@ -34,7 +34,7 @@ Feel free to explore my [Repositories](https://github.com/techniker?tab=reposito
 
 | Category                | Tools / Technologies                          |
 |-------------------------|------------------------------------------------|
-| Programming Languages    | Python, C/C++, Arduino, Embedded C. VHDL          |
+| Programming Languages    | Python, C/C++, Arduino, Embedded C. VHDL, ...          |
 | Platforms / Hardware     | Controllino, various microcontrollers, sensors |
 | Networking / Systems     | Ethernet, IoT protocols, radar, RF,          |
 | Other Interests          | Aviation, sailing, musical instrument design, rail technology  |
